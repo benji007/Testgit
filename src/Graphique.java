@@ -1,4 +1,4 @@
-
+/*
 import java.awt.Color;
 import java.awt.Cursor;
 import java.awt.Dimension;
@@ -19,7 +19,7 @@ import javax.swing.JPanel;
 
 public class Graphique extends JFrame implements GameUI
 {
-
+/*
   // GameBoard properties (square dimension)
   private final int SIZE = 10;
   private final int FIELD_SIZE = 34; // = 32px because of the border
@@ -48,7 +48,7 @@ public class Graphique extends JFrame implements GameUI
     
     gamePanel.setLayout(new GridBagLayout());
     gamePanel.setPreferredSize(new Dimension(340, 340));
-    gamePanel.setBackground(new Color(131, 209, 232));
+    gamePanel.setBackground(new Color(31, 209, 232));
     gamePanel.setBorder(BorderFactory.createLineBorder(new Color(32, 156, 185)));
     
     buildFields();
@@ -254,3 +254,4 @@ public class Graphique extends JFrame implements GameUI
   }
 
 }
+*/

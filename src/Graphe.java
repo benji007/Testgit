@@ -1,4 +1,4 @@
-
+/*
 public interface Graphe {
 
 	public void displayStrike(int x, int y);
@@ -8,3 +8,4 @@ public interface Graphe {
 	public void displayShip(Ship ship);
 
 }
+*/
